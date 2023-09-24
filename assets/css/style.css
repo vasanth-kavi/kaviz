@@ -1,5 +1,5 @@
 .header-logo{
-        height: 50px;
+        height: 100%;
         filter: drop-shadow(7px 3px 4px #80b918);
 }
 .header-logo:hover{
